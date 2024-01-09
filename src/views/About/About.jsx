@@ -1,8 +1,11 @@
 import React from "react";
+import Navbar from "../../components/Navbar/Navbar";
 
 function About() {
   return (
     <div>
+      <Navbar/>
+
       <h1>Aboot</h1>
     </div>
   );
