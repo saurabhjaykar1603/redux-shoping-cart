@@ -27,7 +27,7 @@ function Product() {
                 style={{ boxShadow: "0 3px 10px rgb(0 0 0 / 0.2)" }}
               >
                 <div className="img-container">
-                  <img src={image} alt="" className="h-36 d-block mx-auto" />
+                  <img src={image} alt="" className="h-32 d-block mx-auto" />
                 </div>
                 <p className="text-[14px] leading-1  my-8 h-14 font-bold">
                   {title}
