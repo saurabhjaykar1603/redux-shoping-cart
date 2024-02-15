@@ -1,12 +1,12 @@
 import React from "react";
-import Navbar from "../../components/Navbar/Navbar";
+// import Navbar from "../../components/Navbar/Navbar";   
 
 function About() {
   return (
     <div>
-      <Navbar/>
+      {/* <Navbar/> */}
 
-      <h1>Aboot</h1>
+      <h1>About</h1>
     </div>
   );
 }
